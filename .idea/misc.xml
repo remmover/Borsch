@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\Gyrocopter_UA\AppData\Local\Programs\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="3c82ac7d-1f9f-4fc3-8977-4fe81472ac0b" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (Borsch)" project-jdk-type="Python SDK" />
+</project>
