@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 8000
 
 # Запустимо нашу програму всередині контейнера
-CMD ["python", "main.py", "uvicorn main:app --host 0.0.0.0 --port 8000 --reload"]
+CMD ["python", "main.py", "uvicorn main:app --host 0.0.0.0 --port 10000"]
